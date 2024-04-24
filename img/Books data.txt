@@ -1,0 +1,114 @@
+   1. *To Kill a Mockingbird* by Harper Lee
+      - Price: $9.99
+      - Category: Fiction
+      - Description: A timeless classic exploring racial injustice and moral growth in the American South through the eyes of a young girl named Scout Finch.
+   2. *1984* by George Orwell
+      - Price: $11.99
+      - Category: Fiction
+      - Description: Orwell's dystopian masterpiece depicting a totalitarian regime where individuality is suppressed and truth is manipulated.
+   3. *The Great Gatsby* by F. Scott Fitzgerald
+      - Price: $8.50
+      - Category: Fiction
+      - Description: Set in the Roaring Twenties, this novel unravels the glamorous yet hollow lives of the wealthy elite, exploring themes of love, wealth, and the American Dream.
+   4. *Harry Potter and the Sorcerer's Stone* by J.K. Rowling
+      - Price: $7.99
+      - Category: Fiction
+      - Description: The first book in the beloved Harry Potter series follows the young wizard's journey as he discovers his magical heritage and battles the dark wizard Voldemort.
+   5. *The Catcher in the Rye* by J.D. Salinger
+      - Price: $8.95
+      - Category: Fiction
+      - Description: A coming-of-age novel narrated by Holden Caulfield, a disillusioned teenager navigating the hypocrisy and phoniness of adult society.
+
+2. Science Fiction:
+   1. *Dune* by Frank Herbert
+      - Price: $10.99
+      - Category: Science Fiction
+      - Description: A complex epic set in a distant future where noble houses battle for control over the desert planet Arrakis, the only source of a valuable spice called melange.
+   2. *Foundation* by Isaac Asimov
+      - Price: $9.75
+      - Category: Science Fiction
+      - Description: The first book in Asimov's Foundation series, following mathematician Hari Seldon's efforts to preserve knowledge and shorten the dark ages following the fall of the Galactic Empire.
+   3. *Neuromancer* by William Gibson
+      - Price: $12.25
+      - Category: Science Fiction
+      - Description: A groundbreaking cyberpunk novel following the hacker Case as he navigates a dystopian future where artificial intelligence and virtual reality dominate.
+   4. *The Martian* by Andy Weir
+      - Price: $10.50
+      - Category: Science Fiction
+      - Description: Astronaut Mark Watney is stranded on Mars and must rely on his ingenuity and resourcefulness to survive until rescue in this gripping tale of human perseverance.
+   5. *Snow Crash* by Neal Stephenson
+      - Price: $11.95
+      - Category: Science Fiction
+      - Description: In a future America where governments have collapsed, the internet has evolved into the Metaverse, and a new drug called Snow Crash threatens to destabilize society.
+
+3. Mystery/Thriller:
+   1. *The Girl with the Dragon Tattoo* by Stieg Larsson
+      - Price: $9.25
+      - Category: Mystery/Thriller
+      - Description: Journalist Mikael Blomkvist and hacker Lisbeth Salander investigate the disappearance of a wealthy industrialist's niece, uncovering dark family secrets and corruption.
+   2. *Gone Girl* by Gillian Flynn
+      - Price: $8.99
+      - Category: Mystery/Thriller
+      - Description: On their fifth wedding anniversary, Nick Dunne's wife, Amy, goes missing, and he becomes the prime suspect in this gripping tale of marriage, deception, and betrayal.
+   3. *The Da Vinci Code* by Dan Brown
+      - Price: $9.99
+      - Category: Mystery/Thriller
+      - Description: Professor Robert Langdon teams up with cryptologist Sophie Neveu to solve a murder mystery that leads them on a thrilling quest to uncover a secret society and a hidden religious truth.
+   4. *The Silence of the Lambs* by Thomas Harris
+      - Price: $7.50
+      - Category: Mystery/Thriller
+      - Description: FBI trainee Clarice Starling seeks the help of incarcerated cannibalistic serial killer Hannibal Lecter to catch another serial killer known as Buffalo Bill.
+   5. *The Girl on the Train* by Paula Hawkins
+      - Price: $10.99
+      - Category: Mystery/Thriller
+      - Description: Rachel, an alcoholic divorcee, becomes entangled in a missing person investigation and discovers that things are not as they seem from her daily train rides.
+
+4. Self-Help:
+   1. *The Subtle Art of Not Giving a F*ck* by Mark Manson
+      - Price: $12.99
+      - Category: Self-Help
+      - Description: Manson offers blunt and refreshing advice on how to prioritize what truly matters in life and let go of things that don't, promoting a philosophy of embracing discomfort and uncertainty.
+   2. *Atomic Habits* by James Clear
+      - Price: $11.25
+      - Category: Self-Help
+      - Description: Clear presents a practical guide to building good habits, breaking bad ones, and mastering the tiny behaviors that lead to remarkable results.
+   3. *You Are a Badass* by Jen Sincero
+      - Price: $9.75
+      - Category: Self-Help
+      - Description: Sincero offers witty and inspiring advice to help readers overcome self-doubt, embrace their inner badass, and create the life they desire.
+   4. *Mindset: The New Psychology of Success* by Carol S. Dweck
+      - Price: $10.50
+      - Category: Self-Help
+      - Description: Dweck explores the power of mindset, explaining how adopting a growth mindset can lead to greater success and fulfillment in all aspects of life.
+   5. *The Power of Now* by Eckhart Tolle
+      - Price: $9.99
+      - Category: Self-Help
+      - Description: Tolle presents a spiritual guide to living in the present moment, offering insights and exercises to help readers transcend ego-based consciousness and find inner peace.
+Sure, here are five books in the anime category, although it's important to note that anime is primarily a visual medium, so books about anime typically include topics like history, analysis, or related fiction rather than actual anime episodes:
+
+Anime:
+
+1. *The Anime Encyclopedia: A Guide to Japanese Animation Since 1917* by Jonathan Clements and Helen McCarthy
+   - Price: $39.95
+   - Category: Anime
+   - Description: A comprehensive reference book providing detailed information on the history, genres, themes, and creators of Japanese animation, covering over a century of anime production.
+
+2. *Understanding Manga and Anime* by Robin E. Brenner
+   - Price: $25.99
+   - Category: Anime
+   - Description: Brenner explores the world of manga and anime, delving into their cultural significance, storytelling techniques, artistic styles, and global impact, offering insights for both fans and scholars.
+
+3. *The Anime Machine: A Media Theory of Animation* by Thomas Lamarre
+   - Price: $29.95
+   - Category: Anime
+   - Description: Lamarre presents a theoretical analysis of Japanese animation, examining its distinctive characteristics, modes of production, and cultural context within the broader framework of media studies.
+
+4. *Manga! Manga!: The World of Japanese Comics* by Frederik L. Schodt
+   - Price: $19.99
+   - Category: Anime
+   - Description: Schodt provides an in-depth exploration of manga, covering its history, genres, artists, and influence on global popular culture, offering a fascinating glimpse into the dynamic world of Japanese comics.
+
+5. *Nausicaä of the Valley of the Wind* by Hayao Miyazaki
+   - Price: $16.99
+   - Category: Anime
+   - Description: A manga series written and illustrated by renowned animator Hayao Miyazaki, set in a post-apocalyptic world where a courageous princess named Nausicaä fights to protect her people and the environment from war and ecological devastation.

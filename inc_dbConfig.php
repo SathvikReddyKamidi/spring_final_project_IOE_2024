@@ -1,6 +1,7 @@
 <?php
-$host="localhost";
-$dbname="books";
-$username="root";
-$password="";
+    //database connectivity credentials
+    $host = "localhost";
+    $username = "root";
+    $password = "";
+    $database = "bookcart";
 ?>

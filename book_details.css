@@ -1,0 +1,74 @@
+.container {
+    
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+.book{
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: stretch;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding:10px;
+    border-radius: .5rem;
+    background-color: #fff; 
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    
+}
+img{
+    height: 300px;
+    width: 300px;  
+}
+.Img {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+}
+
+.title{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #000;
+    margin: 0 0 3px;
+    /* text-transform: unset; */
+    font-size: 25px;
+    line-height: 70px;
+}
+
+
+
+.buyNow {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+}
+
+.book label {
+    display: inline-block;
+    vertical-align: middle; 
+}
+
+.book input[type="number"] {
+    width: 50px;
+    padding: 5px;
+    margin-bottom: 10px;
+    vertical-align: middle; 
+}
